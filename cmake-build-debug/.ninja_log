@@ -1,0 +1,5 @@
+# ninja log v6
+2	244	7499611239394593	build.ninja	6344d4634549c4
+24	425	7499605910601903	CMakeFiles/Incendios.dir/funcoes.c.obj	de824b169d5fc081
+19	419	7499605910552034	CMakeFiles/Incendios.dir/main.c.obj	73c9ad40762a1201
+425	629	7499605914610031	Incendios.exe	c7129bf17cfd5eb9
