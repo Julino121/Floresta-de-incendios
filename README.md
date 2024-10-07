@@ -45,9 +45,3 @@ O mapa da floresta possui os seguintes estados representados por caracteres:
 - Um compilador C (ex: `gcc`)
 - `pthread` para suportar multi-threading
 
-### Passos
-
-1. Clone o repositório:
-   ```bash
-   git clone <URL_DO_REPOSITORIO>
-   cd <NOME_DA_PASTA>
