@@ -38,10 +38,8 @@ O mapa da floresta possui os seguintes estados representados por caracteres:
    - Os sensores usam mutexes para garantir que as alterações ao estado da floresta sejam feitas de maneira segura.
    - A notificação de incêndios entre sensores vizinhos e a central de controle é feita por chamadas de função que modificam o estado da matriz da floresta.
 
-## Compilação e Execução
-
 ### Requisitos
 
-- Um compilador C (ex: `gcc`)
+- Um compilador C (utilizei cLion)
 - `pthread` para suportar multi-threading
 
